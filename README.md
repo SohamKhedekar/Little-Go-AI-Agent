@@ -2,4 +2,4 @@
 
 In this programming assignment, I was expected to develop an AI agent based on some of the AI techniques for Search, Game Playing, and Reinforcement Learning learnt in class. The agent plays a small version of the Go game, called Go-5x5 or Little-Go, that has a reduced board size of 5x5. The agent played this Little-Go game against some basic as well as more advanced AI agents. Further, the agent was graded based on it's performance in online game “tournaments” on Vocareum.com. My objective was to develop and train the AI agent to play this Little-Go game as best as possible. (This was a deliverable for CS561 at USC. The homework description pdf can be found in the repository)
 
-My approach involves a Minimax tree with alpha-beta pruning. The heuristic was influenced by the research done by Erik Van Der Werf's research (https://www.researchgate.net/publication/2925531_Solving_Go_On_Small_Boards) on the topic.
+My approach involves a Minimax tree with alpha-beta pruning. The heuristic was influenced by the research done by Erik Van Der Werf (https://www.researchgate.net/publication/2925531_Solving_Go_On_Small_Boards) on the topic.
